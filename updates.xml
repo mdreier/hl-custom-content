@@ -5,14 +5,14 @@
 <!-- ************************************************************ -->
 <update
     name="Martin's HeroLab Modifications"   
-    date="2016/10/02:1928"
+    date="2017/02/18:1649"
     size="3092"
     description="Martin's custom content." 
     uniqueid="999" filetype="3" platform="any"
-    download="https://raw.githubusercontent.com/mdreier/hl-custom-content/rel-1.2/pf-mods.hl"
+    download="https://raw.githubusercontent.com/mdreier/hl-custom-content/rel-1.3/pf-mods.hl"
     website="https://github.com/mdreier/hl-custom-content"
     companyurl="https://github.com/mdreier"
-    priority="99" major="1" minor="2" patch=""
+    priority="99" major="1" minor="3" patch=""
     folder="pathfinder" special="MWD_Mod" dynamic=""    
     />
 </document>
